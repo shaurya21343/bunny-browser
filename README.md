@@ -1,1 +1,1 @@
-This is the first elecrtrom project
+This is the first elecrtrom project created by me
